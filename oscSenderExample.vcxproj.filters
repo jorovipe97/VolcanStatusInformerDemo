@@ -43,7 +43,7 @@
     <ClCompile Include="..\..\..\addons\ofxOsc\libs\oscpack\src\osc\OscReceivedElements.cpp">
       <Filter>addons\ofxOsc\libs\oscpack\src\osc</Filter>
     </ClCompile>
-    <ClCompile Include="VolcanInformerStatus.cpp">
+    <ClCompile Include="src\VolcanStatusInformer.cpp">
       <Filter>src</Filter>
     </ClCompile>
   </ItemGroup>
@@ -143,7 +143,7 @@
     <ClInclude Include="..\..\..\addons\ofxOsc\libs\oscpack\src\osc\OscReceivedElements.h">
       <Filter>addons\ofxOsc\libs\oscpack\src\osc</Filter>
     </ClInclude>
-    <ClInclude Include="VolcanStatusInformer.h">
+    <ClInclude Include="src\VolcanStatusInformer.h">
       <Filter>src</Filter>
     </ClInclude>
   </ItemGroup>

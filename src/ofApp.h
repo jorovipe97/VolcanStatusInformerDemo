@@ -2,7 +2,7 @@
 
 #include "ofMain.h"
 #include "ofxOsc.h"
-#include "../VolcanStatusInformer.h"
+#include "VolcanStatusInformer.h"
 
 #define HOST "127.0.0.1"
 #define PORT 9000
